@@ -34,6 +34,17 @@ p{
   text-align: center;
   padding: 15px;
 }
+.rating-clicked{
+  display: inline-block;
+  color: #fff;
+  background-color: #FB7718;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 6% 5% 0;
+  text-align: center;
+  padding: 15px;
+}
 .rating:hover{
   background-color: #7A8599;
 }
